@@ -1,6 +1,6 @@
 ---
 date: '2023-06-01'
-title: 'Abhigyan Abhikaushalam Students' Forum'
+title: "Abhigyan Abhikaushalam Students Forum"
 github: 'https://github.com/sohan2410/aasf-api'
 external: 'https://www.aasf.in/'
 tech:
