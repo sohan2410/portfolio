@@ -60,14 +60,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Sohan Bandary.</h2>;
+  const two = <h2 className="big-heading">Sohan Bandary</h2>;
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        I'm a Full Stack Web, App, and Blockchain Developer and UI/UX enthusiast who enjoys
-        exploring new technologies. I love participating in hackathons and being a part of developer
-        communities where I can learn and share my knowledge and abilities.
+        I'm a Software Developer who enjoys exploring new technologies. I love participating in
+        hackathons and being a part of developer communities where I can learn and share my
+        knowledge and abilities.
       </p>
     </>
   );
