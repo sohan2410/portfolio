@@ -1,7 +1,7 @@
 ---
 date: '2022-01-01'
 title: 'Quadratic Crowd Funding'
-cover: './halcyon.png'
+# cover: './halcyon.png'
 github: 'https://github.com/sohan2410/quadratic-crowd-funding'
 cta: 'https://github.com/sohan2410/quadratic-crowd-funding'
 tech:
