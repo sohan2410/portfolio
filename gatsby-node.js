@@ -4,6 +4,8 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
+process.setMaxListeners(0);
+
 const path = require('path');
 const _ = require('lodash');
 
